@@ -21,15 +21,21 @@ My goal is to continuously learn, build, experiment, and create impactful soluti
 ## 📌 Featured Projects
 
 <p align="center">
-  <a href="https://github.com/saurabhjamdade077/PROJECT-1-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhjamdade077&repo=PROJECT-1-REPO-NAME&theme=radical&hide_border=true" />
+  <a href="https://github.com/saurabhjamdade077/rights_navigator_ai">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhjamdade077&repo=rights_navigator_ai&theme=radical&hide_border=true" />
   </a>
-  <a href="https://github.com/saurabhjamdade077/PROJECT-2-REPO-NAME">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhjamdade077&repo=PROJECT-2-REPO-NAME&theme=radical&hide_border=true" />
+  <a href="https://github.com/saurabhjamdade077/Thermal_-_Guardian">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhjamdade077&repo=Thermal_-_Guardian&theme=radical&hide_border=true" />
   </a>
 </p>
-
-> ⚠️ `PROJECT-1-REPO-NAME` aur `PROJECT-2-REPO-NAME` ki jagah apne actual GitHub repo ka naam daalo (jaise `weather-app` ya `portfolio-website`). Jitne chaho utne project cards add kar sakte ho, bas ek naya `<a>` block copy-paste karke repo name badal do.
+<p align="center">
+  <a href="https://github.com/saurabhjamdade077/CipherAI">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhjamdade077&repo=CipherAI&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/saurabhjamdade077/PCWIP">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhjamdade077&repo=PCWIP&theme=radical&hide_border=true" />
+  </a>
+</p>
 
 ---
 
