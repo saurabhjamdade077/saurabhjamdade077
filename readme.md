@@ -104,8 +104,6 @@ always learning, always building
   <img src="https://raw.githubusercontent.com/saurabhjamdade077/saurabhjamdade077/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-> ⚠️ Ye chalane ke liye ek chhota GitHub Action setup karna padega (steps neeche diye hain).
-
 ---
 
 ## 🔝 Top Contributed Repo
