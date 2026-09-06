@@ -8,7 +8,7 @@
 
 </div>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+---
 
 ## 🚀 About Me
 
@@ -16,7 +16,22 @@ I'm a Computer Engineering student passionate about building technology that sol
 
 My goal is to continuously learn, build, experiment, and create impactful solutions through technology. I primarily work with `Python`, `JavaScript`, `C/C++`, `MySQL`, `MongoDB`, and `Git/GitHub`.
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+---
+
+## 📌 Featured Projects
+
+<p align="center">
+  <a href="https://github.com/saurabhjamdade077/PROJECT-1-REPO-NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhjamdade077&repo=PROJECT-1-REPO-NAME&theme=radical&hide_border=true" />
+  </a>
+  <a href="https://github.com/saurabhjamdade077/PROJECT-2-REPO-NAME">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhjamdade077&repo=PROJECT-2-REPO-NAME&theme=radical&hide_border=true" />
+  </a>
+</p>
+
+> ⚠️ `PROJECT-1-REPO-NAME` aur `PROJECT-2-REPO-NAME` ki jagah apne actual GitHub repo ka naam daalo (jaise `weather-app` ya `portfolio-website`). Jitne chaho utne project cards add kar sakte ho, bas ek naya `<a>` block copy-paste karke repo name badal do.
+
+---
 
 ## 💻 Terminal
 
@@ -38,7 +53,7 @@ always learning, always building
   <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+status%3A+online;%3E+access+granted_;%3E+building+cool+stuff..." alt="Terminal typing" />
 </p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+---
 
 ## 🌐 Connect With Me
 
@@ -54,7 +69,7 @@ always learning, always building
   </a>
 </p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+---
 
 ## 🛠️ Tech Stack
 
@@ -62,7 +77,7 @@ always learning, always building
   <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,fastapi,mysql,mongodb,mariadb,git,github,figma,vercel&theme=dark" />
 </p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+---
 
 ## 📊 GitHub Stats
 
@@ -75,7 +90,7 @@ always learning, always building
   <img src="https://streak-stats.demolab.com/?user=saurabhjamdade077&theme=radical&hide_border=true" alt="GitHub Streak" />
 </p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+---
 
 ## 🐍 Contribution Graph (Animated)
 
@@ -83,7 +98,9 @@ always learning, always building
   <img src="https://raw.githubusercontent.com/saurabhjamdade077/saurabhjamdade077/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
 </p>
 
-<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+> ⚠️ Ye chalane ke liye ek chhota GitHub Action setup karna padega (steps neeche diye hain).
+
+---
 
 ## 🔝 Top Contributed Repo
 
