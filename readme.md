@@ -1,84 +1,102 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=24&duration=3000&pause=1000&color=00FF00&center=true&vCenter=true&width=600&lines=%3E+whoami;Saurabh+Jamdade;%3E+cat+about.txt;Computer+Engineering+Student;%3E+status%3A+Building+cool+stuff...;%3E+access+granted_" alt="Typing SVG" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:ec4899,100:6366f1&height=200&section=header&animation=fadeIn" width="100%"/>
+
+<img src="./assets/coder-chibi.svg" width="220" alt="coder chibi" />
+
+<img src="https://readme-typing-svg.demolab.com/?font=Poppins&weight=600&size=30&duration=2500&pause=800&color=EC4899,A855F7,6366F1&center=true&vCenter=true&multiline=true&repeat=true&width=600&height=90&lines=Hi+there%2C+I'm+Saurabh+%E2%9C%A8;Computer+Engineering+Student;AI+%2B+Cybersecurity+Enthusiast;Building+cool+stuff+every+day" alt="Typing SVG" />
 
 </div>
 
-```bash
-┌──(saurabh㉿github)-[~]
-└─$ cat about.txt
-```
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
 
-- 💻 Computer Engineering student, building AI-powered apps, cybersecurity tools & software that solves real problems.
-- 🔓 Constantly learning, breaking, building & experimenting.
-- 🛠️ Primary stack: `Python` `JavaScript` `C/C++` `MySQL` `MongoDB` `Git`
+## 🚀 About Me
 
-```bash
-┌──(saurabh㉿github)-[~]
-└─$ ls socials/
-```
+I'm a Computer Engineering student passionate about building technology that solves real-world problems. I enjoy developing **AI-powered applications**, **cybersecurity solutions**, and innovative software projects.
 
-<p align="center">
-  <a href="https://facebook.com/saurabhjamadade"><img src="https://img.shields.io/badge/Facebook-000000?style=for-the-badge&logo=facebook&logoColor=00FF00" /></a>
-  <a href="https://instagram.com/_saurabh_909"><img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram&logoColor=00FF00" /></a>
-  <a href="https://linkedin.com/in/saurabhjamdade"><img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin&logoColor=00FF00" /></a>
-</p>
+My goal is to continuously learn, build, experiment, and create impactful solutions through technology. I primarily work with `Python`, `JavaScript`, `C/C++`, `MySQL`, `MongoDB`, and `Git/GitHub`.
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## 💻 Terminal
 
 ```bash
 ┌──(saurabh㉿github)-[~]
-└─$ ./tech_stack.sh
-```
+└─$ whoami
+saurabh_jamdade
 
-<p align="center">
-  <img src="https://img.shields.io/badge/C-000000?style=for-the-badge&logo=c&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=c%2B%2B&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Python-000000?style=for-the-badge&logo=python&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/JavaScript-000000?style=for-the-badge&logo=javascript&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/FastAPI-000000?style=for-the-badge&logo=fastapi&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/MongoDB-000000?style=for-the-badge&logo=mongodb&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/MariaDB-000000?style=for-the-badge&logo=mariadb&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Figma-000000?style=for-the-badge&logo=figma&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Canva-000000?style=for-the-badge&logo=canva&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=00FF00" />
-  <img src="https://img.shields.io/badge/Render-000000?style=for-the-badge&logo=render&logoColor=00FF00" />
-</p>
-
-```bash
 ┌──(saurabh㉿github)-[~]
-└─$ ./fetch_stats.sh --verbose
-```
+└─$ cat skills.txt
+Python | JavaScript | C/C++ | MySQL | MongoDB | Git
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=saurabhjamdade077&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-</p>
-
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=saurabhjamdade077&theme=chartreuse-dark&hide_border=true" alt="GitHub Streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjamdade077&theme=chartreuse-dark&hide_border=true&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" />
-</p>
-
-```bash
 ┌──(saurabh㉿github)-[~]
-└─$ echo "🔝 top contributed repo"
+└─$ echo "always learning, always building"
+always learning, always building
 ```
 
 <p align="center">
-  <img src="https://github-contributor-stats.vercel.app/api?username=saurabhjamdade077&limit=5&theme=dark&combine_all_yearly_contributions=true" />
+  <img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&size=16&duration=2500&pause=800&color=00FF00&center=true&vCenter=true&width=500&lines=%3E+status%3A+online;%3E+access+granted_;%3E+building+cool+stuff..." alt="Terminal typing" />
 </p>
 
----
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## 🌐 Connect With Me
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=saurabhjamdade077&icon=terminal&color=00ff00&style=flat-square" alt="Profile Views" />
+  <a href="https://facebook.com/saurabhjamadade">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" />
+  </a>
+  <a href="https://instagram.com/_saurabh_909">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+  </a>
+  <a href="https://linkedin.com/in/saurabhjamdade">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
 </p>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## 🛠️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,python,java,javascript,fastapi,mysql,mongodb,mariadb,git,github,figma,vercel&theme=dark" />
+</p>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=saurabhjamdade077&show_icons=true&theme=radical&hide_border=true&include_all_commits=true&count_private=true" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=saurabhjamdade077&layout=compact&theme=radical&hide_border=true" />
+</p>
+
+<p align="center">
+  <img src="https://streak-stats.demolab.com/?user=saurabhjamdade077&theme=radical&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## 🐍 Contribution Graph (Animated)
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/saurabhjamdade077/saurabhjamdade077/output/github-contribution-grid-snake-dark.svg" alt="Snake animation" />
+</p>
+
+<img src="https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg" width="100%"/>
+
+## 🔝 Top Contributed Repo
+
+<p align="center">
+  <img src="https://github-contributor-stats.vercel.app/api?username=saurabhjamdade077&limit=5&theme=radical&combine_all_yearly_contributions=true" />
+</p>
+
+<br>
 
 <div align="center">
-<sub>&gt; connection closed by remote host_</sub>
+
+<img src="https://komarev.com/ghpvc/?username=saurabhjamdade077&color=EC4899&style=for-the-badge&label=Profile+Views" alt="Profile Views" />
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:6366f1,50:ec4899,100:a855f7&height=150&section=footer" width="100%"/>
+
 </div>
