@@ -22,18 +22,18 @@ My goal is to continuously learn, build, experiment, and create impactful soluti
 
 <p align="center">
   <a href="https://github.com/saurabhjamdade077/rights_navigator_ai">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhjamdade077&repo=rights_navigator_ai&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/rights__navigator__ai-6366F1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/saurabhjamdade077/Thermal_-_Guardian">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhjamdade077&repo=Thermal_-_Guardian&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/Thermal__Guardian-EC4899?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 <p align="center">
   <a href="https://github.com/saurabhjamdade077/CipherAI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhjamdade077&repo=CipherAI&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/CipherAI-A855F7?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   <a href="https://github.com/saurabhjamdade077/PCWIP">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=saurabhjamdade077&repo=PCWIP&theme=radical&hide_border=true" />
+    <img src="https://img.shields.io/badge/PCWIP-6366F1?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
